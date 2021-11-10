@@ -189,7 +189,6 @@
   content: '>';
   font-size: 55px;
   color: rgb(0, 0, 0);
-  margin-left: 80px;
 
 }
 
@@ -275,8 +274,9 @@ text-align: center;
 }
 
 .os{
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 100px;
+    margin: 5px;
 }
 .abr{
     background-color: violet;
