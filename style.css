@@ -170,7 +170,16 @@
     display: flex;
     align-items: center;
 }
-
+.circulobtn{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.315);
+    float:right;    
+}
 .circulo{
     border-radius: 50%;
     height: 100px;
